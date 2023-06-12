@@ -4,3 +4,4 @@ Das Game ist ein physic based Game. Buildings werden aus Baublöcken gebaut. Fal
 
 Taste G spawnt in der Entwicklung ein Basic Haus.
 Taste F spawnt in der Entwicklung einen fallenden Block.
+Taste L spawnt in der Entwicklung eine Enemy AI.
