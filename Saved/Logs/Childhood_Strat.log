@@ -3943,3 +3943,74 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.12-12.34.19:451][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2023.06.12-12.34.19:471][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
 [2023.06.12-12.34.19:507][924]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.06.12-12.34.43:468][284]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.12-12.34.43:473][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.12-12.34.43:473][284]PIE: New page: PIE session: Minimal_Default (12.06.2023, 16:34:43)
+[2023.06.12-12.34.43:473][284]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.12-12.34.43:601][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.128021s)
+[2023.06.12-12.34.43:602][284]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.06.12-12.34.43:602][284]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2023.06.12-12.34.43:602][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.129241s)
+[2023.06.12-12.34.43:633][284]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2023.06.12-12.34.43:636][284]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.06.12-12.34.43:636][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.12-12.34.43:636][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.12-12.34.43:636][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.12-12.34.43:636][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.12-12.34.43:636][284]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.12-12.34.43:636][284]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.12-12.34.43:636][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.12-12.34.43:636][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.12-12.34.43:636][284]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.12-12.34.43:636][284]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.12-12.34.43:640][284]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.12-12.34.43:640][284]LogAudioMixer: Display: 1: FrontRight
+[2023.06.12-12.34.43:648][284]LogAudioMixer: Display: Using Audio Device Lautsprecher (High Definition Audio Device)
+[2023.06.12-12.34.43:649][284]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.12-12.34.43:649][284]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.12-12.34.43:649][284]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.12-12.34.43:649][284]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.12-12.34.43:649][284]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.12-12.34.43:649][284]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.12-12.34.43:659][284]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.12-12.34.43:659][284]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.12-12.34.43:659][284]LogInit: FAudioDevice initialized.
+[2023.06.12-12.34.43:659][284]LogAudio: Display: Audio Device (ID: 19) registered with world 'Minimal_Default'.
+[2023.06.12-12.34.43:687][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.12-12.34.43:687][284]LogLoad: Game class is 'NewGame_C'
+[2023.06.12-12.34.43:701][284]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.06.12-14.34.43
+[2023.06.12-12.34.43:701][284]LogWorld: Bringing up level for play took: 0.013724
+[2023.06.12-12.34.43:702][284]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2023.06.12-12.34.43:704][284]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.06.12-12.34.43:704][284]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.06.12-12.34.43:704][284]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.06.12-12.34.43:704][284]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2023.06.12-12.34.43:704][284]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.06.12-12.34.43:704][284]LogNet: GameNetDriver IpNetDriver_17 IpNetDriver listening on port 17777
+[2023.06.12-12.34.43:708][284]PIE: Server logged in
+[2023.06.12-12.34.43:710][284]PIE: Play in editor total start time 0,238 seconds.
+[2023.06.12-12.34.45:602][437]LogBlueprintUserMessages: [PlayerChar_C_0] Server: 273
+[2023.06.12-12.34.47:393][588]LogBlueprintUserMessages: [PlayerChar_C_0] Server: 273
+[2023.06.12-12.34.48:438][675]LogBlueprintUserMessages: [PlayerChar_C_0] Server: 273
+[2023.06.12-12.34.50:195][813]LogBlueprintUserMessages: [basicHouse_C_0] Server: Structure Destroyed
+[2023.06.12-12.34.50:504][835]LogBlueprintUserMessages: [basicHouse_C_2] Server: Structure Destroyed
+[2023.06.12-12.34.50:648][845]LogBlueprintUserMessages: [basicHouse_C_3] Server: Structure Destroyed
+[2023.06.12-12.34.51:151][881]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.12-12.34.51:400][899]LogBlueprintUserMessages: [basicHouse_C_4] Server: Structure Destroyed
+[2023.06.12-12.34.52:857][  5]LogCharacterMovement: Unit_base_C_2 is stuck and failed to move! Velocity: X=-373.94 Y=206.03 Z=0.00 Location: X=307.94 Y=-21.29 Z=165.87 Normal: X=-0.17 Y=0.91 Z=0.38 PenetrationDepth:0.043 Actor:Brick_C_12 Component:Cube BoneName:None (0 other events since notify)
+[2023.06.12-12.34.53:130][ 25]LogCharacterMovement: Unit_base_C_1 is stuck and failed to move! Velocity: X=7.38 Y=-29.68 Z=0.00 Location: X=174.30 Y=95.80 Z=157.14 Normal: X=0.87 Y=0.48 Z=0.12 PenetrationDepth:0.029 Actor:Brick_C_14 Component:Cube BoneName:None (0 other events since notify)
+[2023.06.12-12.34.53:285][ 33]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2023.06.12-12.34.53:285][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.12-12.34.53:285][ 33]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.12-12.34.53:286][ 33]LogSlate: Window 'Childhood_Strat Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2023.06.12-12.34.53:289][ 33]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.06.12-12.34.53:294][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.12-12.34.53:303][ 33]LogNet: World NetDriver shutdown IpNetDriver_17 [GameNetDriver]
+[2023.06.12-12.34.53:303][ 33]LogNet: DestroyNamedNetDriver IpNetDriver_17 [GameNetDriver]
+[2023.06.12-12.34.53:303][ 33]LogExit: GameNetDriver IpNetDriver_17 shut down
+[2023.06.12-12.34.53:303][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.12-12.34.53:320][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.12-12.34.53:352][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.12-12.34.53:354][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.12-12.34.53:374][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2023.06.12-12.34.53:408][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_35
