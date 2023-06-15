@@ -17614,3 +17614,10 @@ Make sure 'FindBrick_C' has been compiled for  Set NearstLoc
 [2023.06.15-15.21.36:280][952]LogFileHelpers: Saving map 'Minimal_Default' took 0.755
 [2023.06.15-15.21.36:316][952]AssetCheck: New page: Asset Save: Minimal_Default
 [2023.06.15-15.21.36:316][952]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.06.15-15.23.21:797][371]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Units/AiServices/DropBrick.
+[2023.06.15-15.23.39:331][423]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Player/UI/GameModeElements.
+[2023.06.15-15.23.39:335][423]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Units/AiServices/FindEnemyAI.
+[2023.06.15-15.23.39:337][423]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Units/AiServices/FindStruc.
+[2023.06.15-15.23.39:338][423]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Units/AiServices/HurtAI.
+[2023.06.15-15.23.39:340][423]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Units/AiServices/HurtEnemyAI.
+[2023.06.15-15.23.39:660][424]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Units/AiServices/DropBrick.
