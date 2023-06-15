@@ -17623,3 +17623,5 @@ Make sure 'FindBrick_C' has been compiled for  Set NearstLoc
 [2023.06.15-15.23.39:660][424]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Units/AiServices/DropBrick.
 [2023.06.15-15.24.34:018][585]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Units/AiServices/DropBrick.
 [2023.06.15-15.24.55:958][650]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Units/AiServices/DropBrick.
+[2023.06.15-15.25.07:771][685]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/StarterContent/Maps/Minimal_Default.
+[2023.06.15-15.25.07:771][685]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Units/AiServices/DropBrick.
