@@ -11068,3 +11068,29 @@ Script Stack (0 frames):
 [2023.06.14-13.14.55:196][680]LogHttp: Warning: 000001FE1546A400: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
 [2023.06.14-13.14.55:196][680]LogHttp: Warning: 000001FE1546A400: libcurl info message cache 3 (Closing connection 1)
 [2023.06.14-13.14.55:529][681]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B22546102-4A18-AE41-831B-44AD4EAE65AC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=5a59e0ab4478ca075ecf1dafb99b6207%7Ca8691445460b4cc48281ee6c528df16c%7C43c4a790-b67b-4830-a341-424223ab8615&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.14-13.47.43:597][851]LogHttp: Warning: 000001FDA35F7200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B22546102-4A18-AE41-831B-44AD4EAE65AC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=5a59e0ab4478ca075ecf1dafb99b6207%7Ca8691445460b4cc48281ee6c528df16c%7C43c4a790-b67b-4830-a341-424223ab8615&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.14-13.47.43:597][851]LogHttp: Warning: 000001FDA35F7200: request failed, libcurl error: 0 (No error)
+[2023.06.14-13.47.43:597][851]LogHttp: Warning: 000001FDA35F7200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fceb84d4b0 [can pipeline])
+[2023.06.14-13.47.43:597][851]LogHttp: Warning: 000001FDA35F7200: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2023.06.14-13.47.43:597][851]LogHttp: Warning: 000001FDA35F7200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.210.177.76) port 443 (#2))
+[2023.06.14-13.47.43:597][851]LogHttp: Warning: 000001FDA35F7200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.06.14-13.47.43:597][851]LogHttp: Warning: 000001FDA35F7200: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2023.06.14-13.47.43:597][851]LogHttp: Warning: 000001FDA35F7200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.06.14-13.47.43:597][851]LogHttp: Warning: 000001FDA35F7200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.06.14-13.47.43:597][851]LogHttp: Warning: 000001FDA35F7200: libcurl info message cache 7 (Closing connection 2)
+[2023.06.14-13.47.43:597][851]LogHttp: Warning: 000001FDA35F7200: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2023.06.14-13.47.43:597][851]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B22546102-4A18-AE41-831B-44AD4EAE65AC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=5a59e0ab4478ca075ecf1dafb99b6207%7Ca8691445460b4cc48281ee6c528df16c%7C43c4a790-b67b-4830-a341-424223ab8615&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.14-21.00.41:542][492]LogAudioMixer: Resetting audio stream to device id 
+[2023.06.14-21.00.41:566][492]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.14-21.00.41:566][492]LogAudioMixer: Display: 1: FrontRight
+[2023.06.14-21.00.45:031][502]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.06.15-09.57.46:994][502]LogAudioMixer: Resetting audio stream to device id 
+[2023.06.15-09.57.47:088][502]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-09.57.47:088][502]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-09.57.48:226][504]LogHttp: Warning: 000001FDA3644F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B22546102-4A18-AE41-831B-44AD4EAE65AC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=5a59e0ab4478ca075ecf1dafb99b6207%7Ca8691445460b4cc48281ee6c528df16c%7C43c4a790-b67b-4830-a341-424223ab8615&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.15-09.57.48:226][504]LogHttp: Warning: 000001FDA3644F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.15-09.57.48:226][504]LogHttp: Warning: 000001FDA3644F00: libcurl info message cache 0 (Connection 3 seems to be dead!)
+[2023.06.15-09.57.48:226][504]LogHttp: Warning: 000001FDA3644F00: libcurl info message cache 1 (Closing connection 3)
+[2023.06.15-09.57.48:226][504]LogHttp: Warning: 000001FDA3644F00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.15-09.57.48:226][504]LogHttp: Warning: 000001FDA3644F00: libcurl info message cache 3 (Closing connection 4)
+[2023.06.15-09.57.48:574][505]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B22546102-4A18-AE41-831B-44AD4EAE65AC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=5a59e0ab4478ca075ecf1dafb99b6207%7Ca8691445460b4cc48281ee6c528df16c%7C43c4a790-b67b-4830-a341-424223ab8615&AppEnvironment=datacollector-binary&UploadType=eteventstream
