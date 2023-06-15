@@ -16390,3 +16390,1227 @@ Make sure 'FindBrick_C' has been compiled for  Set NearstLoc
 [2023.06.15-14.42.45:768][812]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/40hth.40hth
 [2023.06.15-14.42.45:768][812]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/60hth.60hth
 [2023.06.15-14.42.45:768][812]LogContentValidation: Display: Validating BehaviorTree /Game/Units/fightEnemyBhv.fightEnemyBhv
+[2023.06.15-14.43.35:121][993]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Player/UI/GameUi.GameUi
+[2023.06.15-14.43.37:939][221]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Player/UI/StructureUI_bar.StructureUI_bar
+[2023.06.15-14.43.53:420][463]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.06.15-14.43.53:437][463]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.06.15-14.44.02:747][329]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> GameModeElements
+[2023.06.15-14.44.02:791][329]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Player/UI/GameModeElements.
+[2023.06.15-14.44.02:793][329]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.06.15-14.44.04:804][509]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Player/UI/GameModeElements.GameModeElements
+[2023.06.15-14.46.40:147][959]BlueprintLog: New page: Compile GameModeElements
+[2023.06.15-14.46.40:235][959]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2023.06.15-14.46.40:720][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/UI/GameModeElements" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Player/UI/GameModeElements.uasset" SILENT=true
+[2023.06.15-14.46.40:724][986]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/GameModeElementsB5DBB2484AE4E00F7C7593BCF2267985.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Player/UI/GameModeElements.uasset'
+[2023.06.15-14.46.40:731][986]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Player/UI/GameModeElements.
+[2023.06.15-14.46.40:739][986]AssetCheck: New page: Asset Save: GameModeElements
+[2023.06.15-14.46.40:739][986]LogContentValidation: Display: Validating WidgetBlueprint /Game/Player/UI/GameModeElements.GameModeElements
+[2023.06.15-14.48.00:416][640]BlueprintLog: New page: Compile GameModeElements
+[2023.06.15-14.48.00:782][640]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2023.06.15-14.48.01:202][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/UI/GameModeElements" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Player/UI/GameModeElements.uasset" SILENT=true
+[2023.06.15-14.48.01:207][676]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/GameModeElementsFD0AF41846BA7EA7C4A686813FA0037A.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Player/UI/GameModeElements.uasset'
+[2023.06.15-14.48.01:221][676]AssetCheck: New page: Asset Save: GameModeElements
+[2023.06.15-14.48.01:221][676]LogContentValidation: Display: Validating WidgetBlueprint /Game/Player/UI/GameModeElements.GameModeElements
+[2023.06.15-14.49.17:697][524]BlueprintLog: New page: Compile PlayerChar
+[2023.06.15-14.49.17:824][524]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2023.06.15-14.49.18:268][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerChar" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Player/PlayerChar.uasset" SILENT=true
+[2023.06.15-14.49.18:324][550]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/PlayerCharDD27E2B44518DDD47D734F826C0E2A08.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Player/PlayerChar.uasset'
+[2023.06.15-14.49.18:338][550]AssetCheck: New page: Asset Save: PlayerChar
+[2023.06.15-14.49.18:338][550]LogContentValidation: Display: Validating Blueprint /Game/Player/PlayerChar.PlayerChar
+[2023.06.15-14.50.21:566][322]BlueprintLog: New page: Compile PlayerChar
+[2023.06.15-14.50.21:576][322]LogBlueprint: Warning: [AssetLog] D:\Users\Jonah\Documents\Ue4Game\Content\Player\PlayerChar.uasset: [Compiler] 'Game Mode Elements' does not inherit from 'Player Controller' ( Cast To GameModeElements  would always fail).
+[2023.06.15-14.50.21:690][322]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2023.06.15-14.50.37:050][592]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/PlayerCtrler.PlayerCtrler
+[2023.06.15-14.52.13:217][785]BlueprintLog: New page: Compile GameUi
+[2023.06.15-14.52.13:303][785]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2023.06.15-14.52.13:781][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/UI/GameUi" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Player/UI/GameUi.uasset" SILENT=true
+[2023.06.15-14.52.13:791][824]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/GameUi7A0A62814A85B3D072E42D964B329EBD.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Player/UI/GameUi.uasset'
+[2023.06.15-14.52.13:805][824]AssetCheck: New page: Asset Save: GameUi
+[2023.06.15-14.52.13:805][824]LogContentValidation: Display: Validating WidgetBlueprint /Game/Player/UI/GameUi.GameUi
+[2023.06.15-14.53.18:713][342]BlueprintLog: New page: Compile PlayerChar
+[2023.06.15-14.53.18:839][342]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2023.06.15-14.53.19:382][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerChar" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Player/PlayerChar.uasset" SILENT=true
+[2023.06.15-14.53.19:440][375]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/PlayerChar0AD4F68C4839424B4566B78BEEA933E9.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Player/PlayerChar.uasset'
+[2023.06.15-14.53.19:456][375]AssetCheck: New page: Asset Save: PlayerChar
+[2023.06.15-14.53.19:456][375]LogContentValidation: Display: Validating Blueprint /Game/Player/PlayerChar.PlayerChar
+[2023.06.15-14.55.21:919][871]BlueprintLog: New page: Compile basic_controller
+[2023.06.15-14.55.22:058][871]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2023.06.15-14.55.22:663][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Units/basic_controller" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Units/basic_controller.uasset" SILENT=true
+[2023.06.15-14.55.22:670][916]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/basic_controller89D64A0E48644972CD130398B460351D.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Units/basic_controller.uasset'
+[2023.06.15-14.55.22:682][916]AssetCheck: New page: Asset Save: basic_controller
+[2023.06.15-14.55.22:682][916]LogContentValidation: Display: Validating Blueprint /Game/Units/basic_controller.basic_controller
+[2023.06.15-14.56.37:506][361]BlueprintLog: New page: Compile PlayerChar
+[2023.06.15-14.56.37:520][361]LogBlueprint: Error: [AssetLog] D:\Users\Jonah\Documents\Ue4Game\Content\Player\PlayerChar.uasset: [Compiler] This blueprint (self) is not a GameModeElements_C, therefore ' Target ' must have a connection.
+[2023.06.15-14.56.37:803][361]LogBlueprint: Error: [AssetLog] D:\Users\Jonah\Documents\Ue4Game\Content\Player\PlayerChar.uasset: [Compiler] Variable node  Set BuildMode  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.15-14.56.37:914][361]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2023.06.15-14.56.42:323][700]BlueprintLog: New page: Compile PlayerChar
+[2023.06.15-14.56.42:448][700]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2023.06.15-14.56.43:146][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerChar" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Player/PlayerChar.uasset" SILENT=true
+[2023.06.15-14.56.43:282][747]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/PlayerChar484E7AEE426D532965C817A38CCFB12C.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Player/PlayerChar.uasset'
+[2023.06.15-14.56.43:298][747]AssetCheck: New page: Asset Save: PlayerChar
+[2023.06.15-14.56.43:298][747]LogContentValidation: Display: Validating Blueprint /Game/Player/PlayerChar.PlayerChar
+[2023.06.15-14.56.50:552][305]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.15-14.56.50:564][305]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.06.15-14.56.50:606][305]LogPlayLevel: [PlayLevel] Compiling PlayerCtrler before play...
+[2023.06.15-14.56.50:731][305]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2023.06.15-14.56.50:732][305]LogPlayLevel: PlayLevel: Blueprint regeneration took 168 ms (1 blueprints)
+[2023.06.15-14.56.50:732][305]PIE: New page: PIE session: Minimal_Default (15.06.2023, 18:56:50)
+[2023.06.15-14.56.50:732][305]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-14.56.50:861][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129378s)
+[2023.06.15-14.56.50:862][305]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.06.15-14.56.50:863][305]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2023.06.15-14.56.50:863][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.130764s)
+[2023.06.15-14.56.50:926][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2023.06.15-14.56.50:926][305]LogAudio: Display: Creating Audio Device:                 Id: 157, Scope: Unique, Realtime: True
+[2023.06.15-14.56.50:926][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.15-14.56.50:926][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.15-14.56.50:926][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.15-14.56.50:926][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.15-14.56.50:926][305]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.15-14.56.50:926][305]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.15-14.56.50:926][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.15-14.56.50:926][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.15-14.56.50:927][305]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.15-14.56.50:927][305]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.15-14.56.50:931][305]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-14.56.50:931][305]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-14.56.50:941][305]LogAudioMixer: Display: Using Audio Device Lautsprecher (High Definition Audio Device)
+[2023.06.15-14.56.50:941][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.15-14.56.50:941][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.15-14.56.50:941][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.15-14.56.50:942][305]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.15-14.56.50:942][305]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.15-14.56.50:942][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.15-14.56.50:952][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.15-14.56.50:952][305]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.15-14.56.50:952][305]LogInit: FAudioDevice initialized.
+[2023.06.15-14.56.50:952][305]LogAudio: Display: Audio Device (ID: 157) registered with world 'Minimal_Default'.
+[2023.06.15-14.56.50:994][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-14.56.50:994][305]LogLoad: Game class is 'NewGame_C'
+[2023.06.15-14.56.51:008][305]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.06.15-16.56.51
+[2023.06.15-14.56.51:008][305]LogWorld: Bringing up level for play took: 0.013711
+[2023.06.15-14.56.51:008][305]LogOnline: OSS: Creating online subsystem instance for: :Context_230
+[2023.06.15-14.56.51:011][305]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.06.15-14.56.51:011][305]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.06.15-14.56.51:011][305]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.06.15-14.56.51:011][305]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2023.06.15-14.56.51:011][305]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.06.15-14.56.51:011][305]LogNet: GameNetDriver IpNetDriver_155 IpNetDriver listening on port 17777
+[2023.06.15-14.56.51:045][305]PIE: Server logged in
+[2023.06.15-14.56.51:046][305]PIE: Play in editor total start time 0,49 seconds.
+[2023.06.15-14.56.51:239][306]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085714 > MaxSimulationTimeStep (0.050) for 'Unit_base_C_1', movement 'Falling'
+[2023.06.15-14.56.51:848][345]LogBlueprintUserMessages: [basicHouse_C_0] Server: Structure Destroyed
+[2023.06.15-14.56.52:264][372]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-14.56.52:264][372]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-14.56.52:264][372]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-14.56.54:033][491]LogBlueprintUserMessages: [basic_controller_C_0] Server: Build
+[2023.06.15-14.56.54:033][491]LogBlueprintUserMessages: [basic_controller_C_1] Server: Build
+[2023.06.15-14.56.54:969][555]LogBlueprintUserMessages: [basic_controller_C_0] Server: Fight
+[2023.06.15-14.56.54:969][555]LogBlueprintUserMessages: [basic_controller_C_1] Server: Fight
+[2023.06.15-14.56.55:435][587]LogBlueprintUserMessages: [basic_controller_C_0] Server: Build
+[2023.06.15-14.56.55:436][587]LogBlueprintUserMessages: [basic_controller_C_1] Server: Build
+[2023.06.15-14.56.55:844][612]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2023.06.15-14.56.55:844][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-14.56.55:844][612]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-14.56.55:845][612]LogSlate: Window 'Childhood_Strat Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2023.06.15-14.56.55:850][612]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-14.56.55:854][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-14.56.55:862][612]LogNet: World NetDriver shutdown IpNetDriver_155 [GameNetDriver]
+[2023.06.15-14.56.55:862][612]LogNet: DestroyNamedNetDriver IpNetDriver_155 [GameNetDriver]
+[2023.06.15-14.56.55:862][612]LogExit: GameNetDriver IpNetDriver_155 shut down
+[2023.06.15-14.56.55:863][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.15-14.56.55:888][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-14.56.55:956][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-14.56.55:958][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-14.56.55:979][612]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2023.06.15-14.56.56:021][613]LogPlayLevel: Display: Destroying online subsystem :Context_230
+[2023.06.15-14.57.14:953][104]BlueprintLog: New page: Compile GameModeElements
+[2023.06.15-14.57.15:366][104]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2023.06.15-14.57.15:777][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/UI/GameModeElements" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Player/UI/GameModeElements.uasset" SILENT=true
+[2023.06.15-14.57.15:782][137]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/GameModeElements130D384248E75C96C5855A99C353DA2B.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Player/UI/GameModeElements.uasset'
+[2023.06.15-14.57.15:797][137]AssetCheck: New page: Asset Save: GameModeElements
+[2023.06.15-14.57.15:797][137]LogContentValidation: Display: Validating WidgetBlueprint /Game/Player/UI/GameModeElements.GameModeElements
+[2023.06.15-14.57.21:444][612]BlueprintLog: New page: Compile GameModeElements
+[2023.06.15-14.57.21:550][612]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2023.06.15-14.57.22:111][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/UI/GameModeElements" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Player/UI/GameModeElements.uasset" SILENT=true
+[2023.06.15-14.57.22:116][656]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/GameModeElements578BA9784A063DB47FFCA9AD795FF0C6.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Player/UI/GameModeElements.uasset'
+[2023.06.15-14.57.22:129][656]AssetCheck: New page: Asset Save: GameModeElements
+[2023.06.15-14.57.22:129][656]LogContentValidation: Display: Validating WidgetBlueprint /Game/Player/UI/GameModeElements.GameModeElements
+[2023.06.15-14.59.28:115][784]BlueprintLog: New page: Compile PlayerCtrler
+[2023.06.15-14.59.28:265][784]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2023.06.15-14.59.28:676][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCtrler" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Player/PlayerCtrler.uasset" SILENT=true
+[2023.06.15-14.59.28:691][812]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/PlayerCtrler1407F074461B090F8BC7AB8BBA1D03CF.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Player/PlayerCtrler.uasset'
+[2023.06.15-14.59.28:706][812]AssetCheck: New page: Asset Save: PlayerCtrler
+[2023.06.15-14.59.28:706][812]LogContentValidation: Display: Validating Blueprint /Game/Player/PlayerCtrler.PlayerCtrler
+[2023.06.15-14.59.30:781][964]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.15-14.59.30:792][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.15-14.59.30:792][964]PIE: New page: PIE session: Minimal_Default (15.06.2023, 18:59:30)
+[2023.06.15-14.59.30:792][964]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-14.59.30:923][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130860s)
+[2023.06.15-14.59.30:924][964]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.06.15-14.59.30:924][964]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2023.06.15-14.59.30:924][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.132212s)
+[2023.06.15-14.59.30:991][964]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2023.06.15-14.59.30:992][964]LogAudio: Display: Creating Audio Device:                 Id: 158, Scope: Unique, Realtime: True
+[2023.06.15-14.59.30:992][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.15-14.59.30:992][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.15-14.59.30:992][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.15-14.59.30:992][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.15-14.59.30:992][964]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.15-14.59.30:992][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.15-14.59.30:992][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.15-14.59.30:992][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.15-14.59.30:992][964]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.15-14.59.30:992][964]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.15-14.59.30:997][964]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-14.59.30:998][964]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-14.59.31:006][964]LogAudioMixer: Display: Using Audio Device Lautsprecher (High Definition Audio Device)
+[2023.06.15-14.59.31:006][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.15-14.59.31:006][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.15-14.59.31:006][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.15-14.59.31:007][964]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.15-14.59.31:007][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.15-14.59.31:007][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.15-14.59.31:017][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.15-14.59.31:017][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.15-14.59.31:017][964]LogInit: FAudioDevice initialized.
+[2023.06.15-14.59.31:017][964]LogAudio: Display: Audio Device (ID: 158) registered with world 'Minimal_Default'.
+[2023.06.15-14.59.31:075][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-14.59.31:075][964]LogLoad: Game class is 'NewGame_C'
+[2023.06.15-14.59.31:090][964]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.06.15-16.59.31
+[2023.06.15-14.59.31:090][964]LogWorld: Bringing up level for play took: 0.014588
+[2023.06.15-14.59.31:090][964]LogOnline: OSS: Creating online subsystem instance for: :Context_231
+[2023.06.15-14.59.31:093][964]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.06.15-14.59.31:093][964]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.06.15-14.59.31:093][964]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.06.15-14.59.31:093][964]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2023.06.15-14.59.31:093][964]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.06.15-14.59.31:093][964]LogNet: GameNetDriver IpNetDriver_156 IpNetDriver listening on port 17777
+[2023.06.15-14.59.31:102][964]PIE: Server logged in
+[2023.06.15-14.59.31:106][964]PIE: Play in editor total start time 0,32 seconds.
+[2023.06.15-14.59.31:197][965]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085714 > MaxSimulationTimeStep (0.050) for 'Unit_base_C_1', movement 'Falling'
+[2023.06.15-14.59.32:071][  5]LogBlueprintUserMessages: [basicHouse_C_0] Server: Structure Destroyed
+[2023.06.15-14.59.32:511][ 36]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-14.59.32:511][ 36]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-14.59.34:804][198]LogBlueprintUserMessages: [NewGame_C_0] Server: 1
+[2023.06.15-15.00.00:012][  7]LogBlueprintUserMessages: [basic_controller_C_0] Server: Build
+[2023.06.15-15.00.00:012][  7]LogBlueprintUserMessages: [basic_controller_C_1] Server: Build
+[2023.06.15-15.00.00:013][  7]LogBlueprintUserMessages: [basic_controller_C_2] Server: Build
+[2023.06.15-15.00.00:013][  7]LogBlueprintUserMessages: [basic_controller_C_3] Server: Build
+[2023.06.15-15.00.01:574][118]LogBlueprintUserMessages: [basic_controller_C_0] Server: Fight
+[2023.06.15-15.00.01:574][118]LogBlueprintUserMessages: [basic_controller_C_1] Server: Fight
+[2023.06.15-15.00.01:574][118]LogBlueprintUserMessages: [basic_controller_C_2] Server: Fight
+[2023.06.15-15.00.01:575][118]LogBlueprintUserMessages: [basic_controller_C_3] Server: Fight
+[2023.06.15-15.00.13:450][967]LogBlueprintUserMessages: [basic_controller_C_0] Server: Build
+[2023.06.15-15.00.13:450][967]LogBlueprintUserMessages: [basic_controller_C_1] Server: Build
+[2023.06.15-15.00.13:450][967]LogBlueprintUserMessages: [basic_controller_C_3] Server: Build
+[2023.06.15-15.00.33:585][397]LogBlueprintUserMessages: [basic_controller_C_0] Server: Fight
+[2023.06.15-15.00.33:585][397]LogBlueprintUserMessages: [basic_controller_C_1] Server: Fight
+[2023.06.15-15.00.33:586][397]LogBlueprintUserMessages: [basic_controller_C_3] Server: Fight
+[2023.06.15-15.00.33:813][413]LogBlueprintUserMessages: [basic_controller_C_0] Server: Build
+[2023.06.15-15.00.33:813][413]LogBlueprintUserMessages: [basic_controller_C_1] Server: Build
+[2023.06.15-15.00.33:814][413]LogBlueprintUserMessages: [basic_controller_C_3] Server: Build
+[2023.06.15-15.01.30:453][200]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2023.06.15-15.01.30:453][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.01.30:453][200]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.01.30:454][200]LogSlate: Window 'Childhood_Strat Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2023.06.15-15.01.30:456][200]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-15.01.30:460][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.01.30:470][200]LogNet: World NetDriver shutdown IpNetDriver_156 [GameNetDriver]
+[2023.06.15-15.01.30:470][200]LogNet: DestroyNamedNetDriver IpNetDriver_156 [GameNetDriver]
+[2023.06.15-15.01.30:471][200]LogExit: GameNetDriver IpNetDriver_156 shut down
+[2023.06.15-15.01.30:471][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.15-15.01.30:495][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.01.30:564][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.15-15.01.30:564][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.01.30:565][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.01.30:587][200]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.06.15-15.01.30:627][201]LogPlayLevel: Display: Destroying online subsystem :Context_231
+[2023.06.15-15.01.57:588][538]BlueprintLog: New page: Compile FindBrick
+[2023.06.15-15.01.57:691][538]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2023.06.15-15.01.58:074][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Units/AiServices/FindBrick" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Units/AiServices/FindBrick.uasset" SILENT=true
+[2023.06.15-15.01.58:087][566]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/FindBrick907E79B84A0CB6A0C6965AB7D100E31F.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Units/AiServices/FindBrick.uasset'
+[2023.06.15-15.01.58:101][566]AssetCheck: New page: Asset Save: FindBrick
+[2023.06.15-15.01.58:101][566]LogContentValidation: Display: Validating Blueprint /Game/Units/AiServices/FindBrick.FindBrick
+[2023.06.15-15.02.02:142][932]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.15-15.02.02:153][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.15-15.02.02:153][932]PIE: New page: PIE session: Minimal_Default (15.06.2023, 19:02:02)
+[2023.06.15-15.02.02:153][932]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.02.02:286][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.133253s)
+[2023.06.15-15.02.02:287][932]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.06.15-15.02.02:288][932]LogPlayLevel: PIE: World Init took: (0.001223s)
+[2023.06.15-15.02.02:288][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.134617s)
+[2023.06.15-15.02.02:366][932]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2023.06.15-15.02.02:367][932]LogAudio: Display: Creating Audio Device:                 Id: 159, Scope: Unique, Realtime: True
+[2023.06.15-15.02.02:368][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.15-15.02.02:368][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.15-15.02.02:368][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.15-15.02.02:368][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.15-15.02.02:368][932]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.15-15.02.02:368][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.15-15.02.02:368][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.15-15.02.02:368][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.15-15.02.02:368][932]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.15-15.02.02:368][932]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.15-15.02.02:373][932]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-15.02.02:373][932]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-15.02.02:381][932]LogAudioMixer: Display: Using Audio Device Lautsprecher (High Definition Audio Device)
+[2023.06.15-15.02.02:381][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.15-15.02.02:381][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.15-15.02.02:381][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.15-15.02.02:382][932]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.15-15.02.02:382][932]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.15-15.02.02:382][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.15-15.02.02:392][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.15-15.02.02:392][932]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.15-15.02.02:392][932]LogInit: FAudioDevice initialized.
+[2023.06.15-15.02.02:392][932]LogAudio: Display: Audio Device (ID: 159) registered with world 'Minimal_Default'.
+[2023.06.15-15.02.02:440][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.02.02:441][932]LogLoad: Game class is 'NewGame_C'
+[2023.06.15-15.02.02:455][932]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.06.15-17.02.02
+[2023.06.15-15.02.02:455][932]LogWorld: Bringing up level for play took: 0.014197
+[2023.06.15-15.02.02:456][932]LogOnline: OSS: Creating online subsystem instance for: :Context_232
+[2023.06.15-15.02.02:458][932]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.06.15-15.02.02:458][932]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.06.15-15.02.02:458][932]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.06.15-15.02.02:458][932]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2023.06.15-15.02.02:459][932]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.06.15-15.02.02:459][932]LogNet: GameNetDriver IpNetDriver_157 IpNetDriver listening on port 17777
+[2023.06.15-15.02.02:468][932]PIE: Server logged in
+[2023.06.15-15.02.02:472][932]PIE: Play in editor total start time 0,325 seconds.
+[2023.06.15-15.02.02:594][933]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085714 > MaxSimulationTimeStep (0.050) for 'Unit_base_C_1', movement 'Falling'
+[2023.06.15-15.02.03:211][972]LogBlueprintUserMessages: [basicHouse_C_0] Server: Structure Destroyed
+[2023.06.15-15.02.03:674][  6]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.02.56:853][ 44]LogBlueprintUserMessages: [basicWall_C_1] Server: Structure Destroyed
+[2023.06.15-15.03.18:570][668]LogBlueprintUserMessages: [basicWall_C_0] Server: Structure Destroyed
+[2023.06.15-15.03.19:538][742]LogCharacterMovement: Unit_base_C_2 is stuck and failed to move! Velocity: X=4.98 Y=25.79 Z=0.00 Location: X=161.88 Y=-500.21 Z=137.29 Normal: X=0.00 Y=-0.00 Z=1.00 PenetrationDepth:17.762 Actor:Landscape_3 Component:LandscapeHeightfieldCollisionComponent_1441 BoneName:None (0 other events since notify)
+[2023.06.15-15.03.23:442][ 43]LogBlueprintUserMessages: [basicWall_C_2] Server: Structure Destroyed
+[2023.06.15-15.03.44:414][618]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2023.06.15-15.03.44:414][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.03.44:414][618]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.03.44:415][618]LogSlate: Window 'Childhood_Strat Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2023.06.15-15.03.44:420][618]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-15.03.44:424][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.03.44:431][618]LogNet: World NetDriver shutdown IpNetDriver_157 [GameNetDriver]
+[2023.06.15-15.03.44:431][618]LogNet: DestroyNamedNetDriver IpNetDriver_157 [GameNetDriver]
+[2023.06.15-15.03.44:431][618]LogExit: GameNetDriver IpNetDriver_157 shut down
+[2023.06.15-15.03.44:432][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.15-15.03.44:456][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.03.44:525][618]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.15-15.03.44:525][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.03.44:526][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.03.44:548][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2023.06.15-15.03.44:586][619]LogPlayLevel: Display: Destroying online subsystem :Context_232
+[2023.06.15-15.03.57:712][675]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2023.06.15-15.03.58:618][675]LogSlate: Window 'Save Content' being destroyed
+[2023.06.15-15.03.58:640][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/UI/GameUi" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Player/UI/GameUi.uasset" SILENT=true
+[2023.06.15-15.03.58:645][675]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/GameUiE891FA3841C8DC61FF59518D578D1536.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Player/UI/GameUi.uasset'
+[2023.06.15-15.03.58:657][675]AssetCheck: New page: Asset Save: GameUi
+[2023.06.15-15.03.58:657][675]LogContentValidation: Display: Validating WidgetBlueprint /Game/Player/UI/GameUi.GameUi
+[2023.06.15-15.04.14:582][825]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2023.06.15-15.04.17:346][ 24]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.06.15-15.05.21:489][883]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.15-15.05.21:499][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.15-15.05.21:500][883]PIE: New page: PIE session: Minimal_Default (15.06.2023, 19:05:21)
+[2023.06.15-15.05.21:500][883]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.05.21:632][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132506s)
+[2023.06.15-15.05.21:633][883]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.06.15-15.05.21:634][883]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2023.06.15-15.05.21:634][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.133716s)
+[2023.06.15-15.05.21:700][883]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2023.06.15-15.05.21:701][883]LogAudio: Display: Creating Audio Device:                 Id: 160, Scope: Unique, Realtime: True
+[2023.06.15-15.05.21:701][883]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.15-15.05.21:701][883]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.15-15.05.21:701][883]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.15-15.05.21:701][883]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.15-15.05.21:701][883]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.15-15.05.21:701][883]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.15-15.05.21:701][883]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.15-15.05.21:701][883]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.15-15.05.21:702][883]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.15-15.05.21:702][883]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.15-15.05.21:706][883]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-15.05.21:706][883]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-15.05.21:715][883]LogAudioMixer: Display: Using Audio Device Lautsprecher (High Definition Audio Device)
+[2023.06.15-15.05.21:715][883]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.15-15.05.21:715][883]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.15-15.05.21:715][883]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.15-15.05.21:715][883]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.15-15.05.21:715][883]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.15-15.05.21:715][883]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.15-15.05.21:726][883]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.15-15.05.21:726][883]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.15-15.05.21:726][883]LogInit: FAudioDevice initialized.
+[2023.06.15-15.05.21:726][883]LogAudio: Display: Audio Device (ID: 160) registered with world 'Minimal_Default'.
+[2023.06.15-15.05.21:770][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.05.21:771][883]LogLoad: Game class is 'NewGame_C'
+[2023.06.15-15.05.21:785][883]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.06.15-17.05.21
+[2023.06.15-15.05.21:786][883]LogWorld: Bringing up level for play took: 0.014566
+[2023.06.15-15.05.21:786][883]LogOnline: OSS: Creating online subsystem instance for: :Context_233
+[2023.06.15-15.05.21:789][883]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.06.15-15.05.21:789][883]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.06.15-15.05.21:789][883]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.06.15-15.05.21:789][883]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2023.06.15-15.05.21:789][883]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.06.15-15.05.21:789][883]LogNet: GameNetDriver IpNetDriver_158 IpNetDriver listening on port 17777
+[2023.06.15-15.05.21:801][883]PIE: Server logged in
+[2023.06.15-15.05.21:805][883]PIE: Play in editor total start time 0,312 seconds.
+[2023.06.15-15.05.21:892][884]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085714 > MaxSimulationTimeStep (0.050) for 'Unit_base_C_1', movement 'Falling'
+[2023.06.15-15.05.22:498][918]LogBlueprintUserMessages: [basicHouse_C_0] Server: Structure Destroyed
+[2023.06.15-15.05.22:947][944]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.05.22:947][944]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.05.22:947][944]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.05.27:500][215]LogBlueprintUserMessages: [NewGame_C_0] Server: 1
+[2023.06.15-15.06.26:311][710]LogBlueprintUserMessages: [basic_controller_C_0] Server: Build
+[2023.06.15-15.06.26:312][710]LogBlueprintUserMessages: [basic_controller_C_1] Server: Build
+[2023.06.15-15.06.26:312][710]LogBlueprintUserMessages: [basic_controller_C_2] Server: Build
+[2023.06.15-15.06.26:312][710]LogBlueprintUserMessages: [basic_controller_C_3] Server: Build
+[2023.06.15-15.06.27:205][763]LogBlueprintUserMessages: [basic_controller_C_0] Server: Fight
+[2023.06.15-15.06.27:205][763]LogBlueprintUserMessages: [basic_controller_C_1] Server: Fight
+[2023.06.15-15.06.27:205][763]LogBlueprintUserMessages: [basic_controller_C_2] Server: Fight
+[2023.06.15-15.06.27:205][763]LogBlueprintUserMessages: [basic_controller_C_3] Server: Fight
+[2023.06.15-15.06.42:728][687]LogBlueprintUserMessages: [basic_controller_C_0] Server: Build
+[2023.06.15-15.06.42:728][687]LogBlueprintUserMessages: [basic_controller_C_1] Server: Build
+[2023.06.15-15.06.42:728][687]LogBlueprintUserMessages: [basic_controller_C_3] Server: Build
+[2023.06.15-15.06.53:108][308]LogBlueprintUserMessages: [StorageBasic_C_0] Server: Structure Destroyed
+[2023.06.15-15.07.03:883][955]LogBlueprintUserMessages: [basicHouse_C_2] Server: Structure Destroyed
+[2023.06.15-15.07.18:291][801]LogBlueprintUserMessages: [basicHouse_C_3] Server: Structure Destroyed
+[2023.06.15-15.07.18:565][815]LogBlueprintUserMessages: [basicHouse_C_4] Server: Structure Destroyed
+[2023.06.15-15.07.18:933][833]LogBlueprintUserMessages: [basicHouse_C_5] Server: Structure Destroyed
+[2023.06.15-15.07.19:041][838]LogBlueprintUserMessages: [basicHouse_C_6] Server: Structure Destroyed
+[2023.06.15-15.07.19:309][851]LogCharacterMovement: Unit_base_C_8 is stuck and failed to move! Velocity: X=-32.13 Y=100.97 Z=0.00 Location: X=168.55 Y=502.82 Z=140.56 Normal: X=0.85 Y=-0.40 Z=0.35 PenetrationDepth:25.473 Actor:Brick_C_47 Component:Cube BoneName:None (0 other events since notify)
+[2023.06.15-15.07.19:522][861]LogBlueprintUserMessages: [basicHouse_C_7] Server: Structure Destroyed
+[2023.06.15-15.07.19:773][873]LogBlueprintUserMessages: [basicHouse_C_8] Server: Structure Destroyed
+[2023.06.15-15.07.19:774][873]LogBlueprintUserMessages: [basicHouse_C_10] Server: Structure Destroyed
+[2023.06.15-15.07.19:962][882]LogBlueprintUserMessages: [basicHouse_C_9] Server: Structure Destroyed
+[2023.06.15-15.07.20:069][887]LogBlueprintUserMessages: [basicHouse_C_11] Server: Structure Destroyed
+[2023.06.15-15.07.20:358][901]LogCharacterMovement: Unit_base_C_6 is stuck and failed to move! Velocity: X=-79.17 Y=-90.76 Z=0.00 Location: X=186.64 Y=121.17 Z=157.60 Normal: X=0.85 Y=0.30 Z=0.42 PenetrationDepth:1.359 Actor:Brick_C_65 Component:Cube BoneName:None (0 other events since notify)
+[2023.06.15-15.07.21:344][949]LogCharacterMovement: Unit_base_C_9 is stuck and failed to move! Velocity: X=-57.18 Y=83.85 Z=0.00 Location: X=382.29 Y=-70.22 Z=157.03 Normal: X=-0.29 Y=-0.95 Z=0.14 PenetrationDepth:0.423 Actor:Brick_C_91 Component:Cube BoneName:None (0 other events since notify)
+[2023.06.15-15.07.23:620][ 60]LogBlueprintUserMessages: [basicHouse_C_12] Server: Structure Destroyed
+[2023.06.15-15.07.28:335][294]LogCharacterMovement: Unit_base_C_6 is stuck and failed to move! Velocity: X=28.32 Y=-78.49 Z=0.00 Location: X=170.63 Y=112.45 Z=157.37 Normal: X=0.90 Y=0.29 Z=0.33 PenetrationDepth:0.101 Actor:Brick_C_65 Component:Cube BoneName:None (14 other events since notify)
+[2023.06.15-15.07.29:417][347]LogCharacterMovement: Unit_base_C_6 is stuck and failed to move! Velocity: X=5.04 Y=-60.04 Z=0.00 Location: X=147.68 Y=92.74 Z=156.95 Normal: X=0.81 Y=0.45 Z=0.38 PenetrationDepth:0.437 Actor:Brick_C_65 Component:Cube BoneName:None (11 other events since notify)
+[2023.06.15-15.07.30:430][395]LogCharacterMovement: Unit_base_C_6 is stuck and failed to move! Velocity: X=67.32 Y=-169.31 Z=0.00 Location: X=128.41 Y=61.63 Z=157.17 Normal: X=0.78 Y=0.56 Z=0.29 PenetrationDepth:0.334 Actor:Brick_C_65 Component:Cube BoneName:None (16 other events since notify)
+[2023.06.15-15.07.30:736][409]LogCharacterMovement: Unit_base_C_7 is stuck and failed to move! Velocity: X=16.34 Y=-38.75 Z=0.00 Location: X=214.34 Y=-151.26 Z=155.05 Normal: X=0.63 Y=-0.77 Z=0.04 PenetrationDepth:0.024 Actor:Brick_C_65 Component:Cube BoneName:None (0 other events since notify)
+[2023.06.15-15.07.31:435][442]LogCharacterMovement: Unit_base_C_6 is stuck and failed to move! Velocity: X=22.00 Y=-86.12 Z=0.00 Location: X=120.21 Y=17.59 Z=157.18 Normal: X=0.77 Y=0.63 Z=0.12 PenetrationDepth:1.571 Actor:Brick_C_65 Component:Cube BoneName:None (8 other events since notify)
+[2023.06.15-15.07.32:376][486]LogBlueprintUserMessages: [lvl1UnitBuilder_C_0] Server: Structure Destroyed
+[2023.06.15-15.08.02:527][971]LogBlueprintUserMessages: [basicHouse_C_15] Server: Structure Destroyed
+[2023.06.15-15.08.05:766][128]LogBlueprintUserMessages: [basicHouse_C_14] Server: Structure Destroyed
+[2023.06.15-15.08.07:738][224]LogCharacterMovement: Unit_base_C_16 is stuck and failed to move! Velocity: X=-432.23 Y=-235.42 Z=0.00 Location: X=-304.26 Y=30.18 Z=203.01 Normal: X=-0.21 Y=0.02 Z=0.98 PenetrationDepth:0.223 Actor:Brick_C_48 Component:Cube BoneName:None (0 other events since notify)
+[2023.06.15-15.08.08:484][260]LogCharacterMovement: Unit_base_C_9 is stuck and failed to move! Velocity: X=-183.82 Y=-4.89 Z=0.00 Location: X=-894.88 Y=-285.35 Z=157.15 Normal: X=-0.98 Y=-0.21 Z=0.03 PenetrationDepth:4.758 Actor:Brick_C_94 Component:Cube BoneName:None (6 other events since notify)
+[2023.06.15-15.08.08:696][270]LogCharacterMovement: Unit_base_C_5 is stuck and failed to move! Velocity: X=167.64 Y=58.89 Z=0.00 Location: X=-916.16 Y=-390.35 Z=157.38 Normal: X=-0.98 Y=-0.06 Z=0.20 PenetrationDepth:0.131 Actor:Brick_C_94 Component:Cube BoneName:None (0 other events since notify)
+[2023.06.15-15.08.09:713][319]LogCharacterMovement: Unit_base_C_5 is stuck and failed to move! Velocity: X=78.56 Y=43.43 Z=0.00 Location: X=-889.83 Y=-363.78 Z=159.35 Normal: X=-0.72 Y=0.31 Z=0.62 PenetrationDepth:0.029 Actor:Brick_C_94 Component:Cube BoneName:None (14 other events since notify)
+[2023.06.15-15.08.10:382][352]LogCharacterMovement: Unit_base_C_17 is stuck and failed to move! Velocity: X=39.69 Y=10.61 Z=0.00 Location: X=-1013.77 Y=-491.56 Z=116.63 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:38.416 Actor:Landscape_3 Component:LandscapeHeightfieldCollisionComponent_1441 BoneName:None (0 other events since notify)
+[2023.06.15-15.08.17:843][717]LogBlueprintUserMessages: [basicHouse_C_17] Server: Structure Destroyed
+[2023.06.15-15.08.20:417][845]LogCharacterMovement: Unit_base_C_19 is stuck and failed to move! Velocity: X=35.01 Y=21.80 Z=0.00 Location: X=-563.86 Y=1509.53 Z=114.02 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:41.028 Actor:Landscape_3 Component:LandscapeHeightfieldCollisionComponent_1441 BoneName:None (0 other events since notify)
+[2023.06.15-15.08.22:294][937]LogBlueprintUserMessages: [basicHouse_C_18] Server: Structure Destroyed
+[2023.06.15-15.08.22:626][953]LogCharacterMovement: Unit_base_C_3 is stuck and failed to move! Velocity: X=226.87 Y=60.86 Z=0.00 Location: X=-719.76 Y=1526.93 Z=186.96 Normal: X=-0.39 Y=0.92 Z=-0.08 PenetrationDepth:1.265 Actor:Brick_C_153 Component:Cube BoneName:None (0 other events since notify)
+[2023.06.15-15.08.22:626][953]LogBlueprintUserMessages: [basicHouse_C_13] Server: Structure Destroyed
+[2023.06.15-15.08.23:816][ 11]LogCharacterMovement: Unit_base_C_14 is stuck and failed to move! Velocity: X=161.42 Y=71.41 Z=0.00 Location: X=-445.42 Y=1441.19 Z=155.16 Normal: X=-0.25 Y=-0.29 Z=-0.92 PenetrationDepth:0.890 Actor:Brick_C_156 Component:Cube BoneName:None (0 other events since notify)
+[2023.06.15-15.08.24:699][ 54]LogCharacterMovement: Unit_base_C_3 is stuck and failed to move! Velocity: X=140.29 Y=85.15 Z=0.00 Location: X=-276.92 Y=1679.43 Z=156.99 Normal: X=-0.16 Y=0.36 Z=-0.92 PenetrationDepth:0.212 Actor:Brick_C_156 Component:Cube BoneName:None (0 other events since notify)
+[2023.06.15-15.08.27:442][190]LogCharacterMovement: Unit_base_C_8 is stuck and failed to move! Velocity: X=-40.14 Y=-22.61 Z=0.00 Location: X=854.46 Y=-1193.58 Z=158.09 Normal: X=0.31 Y=0.81 Z=0.50 PenetrationDepth:0.058 Actor:Brick_C_112 Component:Cube BoneName:None (2 other events since notify)
+[2023.06.15-15.08.30:403][335]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2023.06.15-15.08.30:403][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.08.30:403][335]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.08.30:404][335]LogSlate: Window 'Childhood_Strat Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2023.06.15-15.08.30:408][335]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-15.08.30:413][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.08.30:418][335]LogNet: World NetDriver shutdown IpNetDriver_158 [GameNetDriver]
+[2023.06.15-15.08.30:418][335]LogNet: DestroyNamedNetDriver IpNetDriver_158 [GameNetDriver]
+[2023.06.15-15.08.30:418][335]LogExit: GameNetDriver IpNetDriver_158 shut down
+[2023.06.15-15.08.30:418][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.15-15.08.30:429][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.08.30:492][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.08.30:493][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.08.30:523][335]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2023.06.15-15.08.30:553][336]LogPlayLevel: Display: Destroying online subsystem :Context_233
+[2023.06.15-15.10.00:924][281]BlueprintLog: New page: Compile NewGame
+[2023.06.15-15.10.01:039][281]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2023.06.15-15.10.01:452][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/NewGame" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Game/NewGame.uasset" SILENT=true
+[2023.06.15-15.10.01:472][309]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/NewGame6B1329D14C9B3A71AC8CB1BF25089510.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Game/NewGame.uasset'
+[2023.06.15-15.10.01:486][309]AssetCheck: New page: Asset Save: NewGame
+[2023.06.15-15.10.01:486][309]LogContentValidation: Display: Validating Blueprint /Game/Game/NewGame.NewGame
+[2023.06.15-15.10.03:201][438]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.15-15.10.03:212][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.15-15.10.03:212][438]PIE: New page: PIE session: Minimal_Default (15.06.2023, 19:10:03)
+[2023.06.15-15.10.03:212][438]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.10.03:342][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130249s)
+[2023.06.15-15.10.03:343][438]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.06.15-15.10.03:343][438]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2023.06.15-15.10.03:344][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.131547s)
+[2023.06.15-15.10.03:409][438]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2023.06.15-15.10.03:409][438]LogAudio: Display: Creating Audio Device:                 Id: 161, Scope: Unique, Realtime: True
+[2023.06.15-15.10.03:410][438]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.15-15.10.03:410][438]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.15-15.10.03:410][438]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.15-15.10.03:410][438]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.15-15.10.03:410][438]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.15-15.10.03:410][438]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.15-15.10.03:410][438]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.15-15.10.03:410][438]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.15-15.10.03:410][438]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.15-15.10.03:410][438]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.15-15.10.03:414][438]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-15.10.03:414][438]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-15.10.03:423][438]LogAudioMixer: Display: Using Audio Device Lautsprecher (High Definition Audio Device)
+[2023.06.15-15.10.03:423][438]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.15-15.10.03:424][438]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.15-15.10.03:424][438]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.15-15.10.03:424][438]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.15-15.10.03:424][438]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.15-15.10.03:424][438]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.15-15.10.03:435][438]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.15-15.10.03:435][438]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.15-15.10.03:435][438]LogInit: FAudioDevice initialized.
+[2023.06.15-15.10.03:435][438]LogAudio: Display: Audio Device (ID: 161) registered with world 'Minimal_Default'.
+[2023.06.15-15.10.03:484][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.10.03:484][438]LogLoad: Game class is 'NewGame_C'
+[2023.06.15-15.10.03:498][438]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.06.15-17.10.03
+[2023.06.15-15.10.03:498][438]LogWorld: Bringing up level for play took: 0.013794
+[2023.06.15-15.10.03:499][438]LogOnline: OSS: Creating online subsystem instance for: :Context_234
+[2023.06.15-15.10.03:501][438]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.06.15-15.10.03:501][438]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.06.15-15.10.03:501][438]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.06.15-15.10.03:501][438]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2023.06.15-15.10.03:501][438]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.06.15-15.10.03:501][438]LogNet: GameNetDriver IpNetDriver_159 IpNetDriver listening on port 17777
+[2023.06.15-15.10.03:511][438]PIE: Server logged in
+[2023.06.15-15.10.03:515][438]PIE: Play in editor total start time 0,31 seconds.
+[2023.06.15-15.10.03:605][439]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085714 > MaxSimulationTimeStep (0.050) for 'Unit_base_C_1', movement 'Falling'
+[2023.06.15-15.10.04:176][474]LogBlueprintUserMessages: [basicHouse_C_0] Server: Structure Destroyed
+[2023.06.15-15.10.04:693][507]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.10.04:693][507]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.10.04:693][507]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.10.05:194][540]LogBlueprintUserMessages: [NewGame_C_0] Server: 0
+[2023.06.15-15.10.07:196][675]LogBlueprintUserMessages: [NewGame_C_0] Server: 0
+[2023.06.15-15.10.09:204][813]LogBlueprintUserMessages: [NewGame_C_0] Server: 0
+[2023.06.15-15.10.11:215][952]LogBlueprintUserMessages: [NewGame_C_0] Server: 0
+[2023.06.15-15.10.13:230][ 87]LogBlueprintUserMessages: [NewGame_C_0] Server: 0
+[2023.06.15-15.10.15:240][219]LogBlueprintUserMessages: [NewGame_C_0] Server: 2
+[2023.06.15-15.10.17:254][350]LogBlueprintUserMessages: [NewGame_C_0] Server: 3
+[2023.06.15-15.10.19:262][481]LogBlueprintUserMessages: [NewGame_C_0] Server: 4
+[2023.06.15-15.10.21:272][610]LogBlueprintUserMessages: [NewGame_C_0] Server: 6
+[2023.06.15-15.10.23:277][741]LogBlueprintUserMessages: [NewGame_C_0] Server: 6
+[2023.06.15-15.10.24:943][845]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2023.06.15-15.10.24:943][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.10.24:943][845]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.10.24:944][845]LogSlate: Window 'Childhood_Strat Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2023.06.15-15.10.24:948][845]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-15.10.24:952][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.10.24:959][845]LogNet: World NetDriver shutdown IpNetDriver_159 [GameNetDriver]
+[2023.06.15-15.10.24:959][845]LogNet: DestroyNamedNetDriver IpNetDriver_159 [GameNetDriver]
+[2023.06.15-15.10.24:959][845]LogExit: GameNetDriver IpNetDriver_159 shut down
+[2023.06.15-15.10.24:960][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.15-15.10.24:971][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.10.25:038][845]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.15-15.10.25:039][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.10.25:039][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.10.25:061][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2023.06.15-15.10.25:091][846]LogPlayLevel: Display: Destroying online subsystem :Context_234
+[2023.06.15-15.10.40:541][ 98]BlueprintLog: New page: Compile NewGame
+[2023.06.15-15.10.40:649][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2023.06.15-15.10.41:051][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/NewGame" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Game/NewGame.uasset" SILENT=true
+[2023.06.15-15.10.41:071][123]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/NewGame8779EB5744467C9A0DFCD4B73B124EEB.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Game/NewGame.uasset'
+[2023.06.15-15.10.41:087][123]AssetCheck: New page: Asset Save: NewGame
+[2023.06.15-15.10.41:087][123]LogContentValidation: Display: Validating Blueprint /Game/Game/NewGame.NewGame
+[2023.06.15-15.10.43:983][336]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.15-15.10.43:993][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.15-15.10.43:993][336]PIE: New page: PIE session: Minimal_Default (15.06.2023, 19:10:43)
+[2023.06.15-15.10.43:993][336]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.10.44:125][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131312s)
+[2023.06.15-15.10.44:125][336]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.06.15-15.10.44:126][336]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2023.06.15-15.10.44:126][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.132593s)
+[2023.06.15-15.10.44:196][336]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2023.06.15-15.10.44:197][336]LogAudio: Display: Creating Audio Device:                 Id: 162, Scope: Unique, Realtime: True
+[2023.06.15-15.10.44:197][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.15-15.10.44:197][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.15-15.10.44:197][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.15-15.10.44:197][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.15-15.10.44:197][336]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.15-15.10.44:197][336]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.15-15.10.44:197][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.15-15.10.44:197][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.15-15.10.44:197][336]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.15-15.10.44:198][336]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.15-15.10.44:202][336]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-15.10.44:202][336]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-15.10.44:211][336]LogAudioMixer: Display: Using Audio Device Lautsprecher (High Definition Audio Device)
+[2023.06.15-15.10.44:211][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.15-15.10.44:211][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.15-15.10.44:211][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.15-15.10.44:212][336]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.15-15.10.44:212][336]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.15-15.10.44:212][336]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.15-15.10.44:222][336]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.15-15.10.44:222][336]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.15-15.10.44:222][336]LogInit: FAudioDevice initialized.
+[2023.06.15-15.10.44:222][336]LogAudio: Display: Audio Device (ID: 162) registered with world 'Minimal_Default'.
+[2023.06.15-15.10.44:265][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.10.44:265][336]LogLoad: Game class is 'NewGame_C'
+[2023.06.15-15.10.44:279][336]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.06.15-17.10.44
+[2023.06.15-15.10.44:280][336]LogWorld: Bringing up level for play took: 0.013802
+[2023.06.15-15.10.44:280][336]LogOnline: OSS: Creating online subsystem instance for: :Context_235
+[2023.06.15-15.10.44:283][336]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.06.15-15.10.44:283][336]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.06.15-15.10.44:283][336]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.06.15-15.10.44:283][336]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2023.06.15-15.10.44:283][336]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.06.15-15.10.44:283][336]LogNet: GameNetDriver IpNetDriver_160 IpNetDriver listening on port 17777
+[2023.06.15-15.10.44:292][336]PIE: Server logged in
+[2023.06.15-15.10.44:296][336]PIE: Play in editor total start time 0,309 seconds.
+[2023.06.15-15.10.44:388][337]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085714 > MaxSimulationTimeStep (0.050) for 'Unit_base_C_1', movement 'Falling'
+[2023.06.15-15.10.45:009][375]LogBlueprintUserMessages: [basicHouse_C_0] Server: Structure Destroyed
+[2023.06.15-15.10.45:009][375]LogBlueprintUserMessages: [basicHouse_C_0] Server: Structure Destroyed
+[2023.06.15-15.10.45:454][400]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.10.45:454][400]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.10.45:454][400]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.10.46:066][442]LogBlueprintUserMessages: [NewGame_C_0] Server: 1
+[2023.06.15-15.10.48:223][590]LogBlueprintUserMessages: [NewGame_C_0] Server: 2
+[2023.06.15-15.10.49:153][646]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2023.06.15-15.10.49:153][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.10.49:153][646]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.10.49:154][646]LogSlate: Window 'Childhood_Strat Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2023.06.15-15.10.49:156][646]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-15.10.49:160][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.10.49:167][646]LogNet: World NetDriver shutdown IpNetDriver_160 [GameNetDriver]
+[2023.06.15-15.10.49:167][646]LogNet: DestroyNamedNetDriver IpNetDriver_160 [GameNetDriver]
+[2023.06.15-15.10.49:168][646]LogExit: GameNetDriver IpNetDriver_160 shut down
+[2023.06.15-15.10.49:168][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.15-15.10.49:178][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.10.49:248][646]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.15-15.10.49:248][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.10.49:249][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.10.49:272][646]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2023.06.15-15.10.49:302][647]LogPlayLevel: Display: Destroying online subsystem :Context_235
+[2023.06.15-15.10.52:951][935]BlueprintLog: New page: Compile NewGame
+[2023.06.15-15.10.53:060][935]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2023.06.15-15.10.53:435][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/NewGame" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Game/NewGame.uasset" SILENT=true
+[2023.06.15-15.10.53:454][959]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/NewGame497208DD4EA26A79216CD6B64D043596.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Game/NewGame.uasset'
+[2023.06.15-15.10.53:468][959]AssetCheck: New page: Asset Save: NewGame
+[2023.06.15-15.10.53:468][959]LogContentValidation: Display: Validating Blueprint /Game/Game/NewGame.NewGame
+[2023.06.15-15.10.55:242][ 94]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.15-15.10.55:252][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.15-15.10.55:252][ 94]PIE: New page: PIE session: Minimal_Default (15.06.2023, 19:10:55)
+[2023.06.15-15.10.55:253][ 94]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.10.55:382][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.128970s)
+[2023.06.15-15.10.55:382][ 94]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.06.15-15.10.55:383][ 94]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2023.06.15-15.10.55:383][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.130207s)
+[2023.06.15-15.10.55:448][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2023.06.15-15.10.55:449][ 94]LogAudio: Display: Creating Audio Device:                 Id: 163, Scope: Unique, Realtime: True
+[2023.06.15-15.10.55:449][ 94]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.15-15.10.55:449][ 94]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.15-15.10.55:449][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.15-15.10.55:449][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.15-15.10.55:449][ 94]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.15-15.10.55:449][ 94]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.15-15.10.55:449][ 94]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.15-15.10.55:449][ 94]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.15-15.10.55:450][ 94]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.15-15.10.55:450][ 94]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.15-15.10.55:454][ 94]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-15.10.55:454][ 94]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-15.10.55:462][ 94]LogAudioMixer: Display: Using Audio Device Lautsprecher (High Definition Audio Device)
+[2023.06.15-15.10.55:462][ 94]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.15-15.10.55:462][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.15-15.10.55:463][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.15-15.10.55:463][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.15-15.10.55:463][ 94]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.15-15.10.55:463][ 94]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.15-15.10.55:473][ 94]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.15-15.10.55:473][ 94]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.15-15.10.55:473][ 94]LogInit: FAudioDevice initialized.
+[2023.06.15-15.10.55:473][ 94]LogAudio: Display: Audio Device (ID: 163) registered with world 'Minimal_Default'.
+[2023.06.15-15.10.55:515][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.10.55:515][ 94]LogLoad: Game class is 'NewGame_C'
+[2023.06.15-15.10.55:529][ 94]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.06.15-17.10.55
+[2023.06.15-15.10.55:530][ 94]LogWorld: Bringing up level for play took: 0.013682
+[2023.06.15-15.10.55:530][ 94]LogOnline: OSS: Creating online subsystem instance for: :Context_236
+[2023.06.15-15.10.55:532][ 94]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.06.15-15.10.55:532][ 94]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.06.15-15.10.55:532][ 94]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.06.15-15.10.55:533][ 94]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2023.06.15-15.10.55:533][ 94]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.06.15-15.10.55:533][ 94]LogNet: GameNetDriver IpNetDriver_161 IpNetDriver listening on port 17777
+[2023.06.15-15.10.55:542][ 94]PIE: Server logged in
+[2023.06.15-15.10.55:546][ 94]PIE: Play in editor total start time 0,299 seconds.
+[2023.06.15-15.10.55:632][ 95]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.074113 > MaxSimulationTimeStep (0.050) for 'Unit_base_C_1', movement 'Falling'
+[2023.06.15-15.10.56:236][133]LogBlueprintUserMessages: [basicHouse_C_0] Server: Structure Destroyed
+[2023.06.15-15.10.56:704][163]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.10.56:704][163]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.10.56:704][163]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.10.59:421][413]LogBlueprintUserMessages: [NewGame_C_0] Server: 1
+[2023.06.15-15.11.01:423][562]LogBlueprintUserMessages: [NewGame_C_0] Server: 2
+[2023.06.15-15.11.03:428][717]LogBlueprintUserMessages: [NewGame_C_0] Server: 3
+[2023.06.15-15.11.05:428][872]LogBlueprintUserMessages: [NewGame_C_0] Server: 4
+[2023.06.15-15.11.06:446][951]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.07:435][ 28]LogBlueprintUserMessages: [NewGame_C_0] Server: 5
+[2023.06.15-15.11.08:466][108]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.09:442][183]LogBlueprintUserMessages: [NewGame_C_0] Server: 6
+[2023.06.15-15.11.10:466][260]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.11:454][331]LogBlueprintUserMessages: [NewGame_C_0] Server: 7
+[2023.06.15-15.11.12:472][409]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.13:459][485]LogBlueprintUserMessages: [NewGame_C_0] Server: 8
+[2023.06.15-15.11.13:513][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.14:481][564]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.15:472][636]LogBlueprintUserMessages: [NewGame_C_0] Server: 9
+[2023.06.15-15.11.15:539][641]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.16:485][713]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.17:484][785]LogBlueprintUserMessages: [NewGame_C_0] Server: 10
+[2023.06.15-15.11.17:538][789]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.18:596][872]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.19:591][948]LogBlueprintUserMessages: [NewGame_C_0] Server: 11
+[2023.06.15-15.11.19:650][952]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.20:715][ 33]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.20:793][ 39]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.21:791][116]LogBlueprintUserMessages: [NewGame_C_0] Server: 12
+[2023.06.15-15.11.21:844][120]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.22:812][192]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.22:916][200]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.23:803][268]LogBlueprintUserMessages: [NewGame_C_0] Server: 13
+[2023.06.15-15.11.23:842][271]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.24:903][348]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.24:994][355]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.25:895][421]LogBlueprintUserMessages: [NewGame_C_0] Server: 14
+[2023.06.15-15.11.25:948][425]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.26:922][496]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.27:006][501]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.28:020][575]LogBlueprintUserMessages: [NewGame_C_0] Server: 15
+[2023.06.15-15.11.28:076][579]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.28:155][585]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.29:044][647]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.29:130][653]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.30:030][714]LogBlueprintUserMessages: [NewGame_C_0] Server: 16
+[2023.06.15-15.11.30:073][717]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.30:198][725]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.31:291][780]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.31:292][780]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.32:040][836]LogBlueprintUserMessages: [NewGame_C_0] Server: 17
+[2023.06.15-15.11.32:109][841]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.32:176][846]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.33:369][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.33:369][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.34:056][907]LogBlueprintUserMessages: [NewGame_C_0] Server: 18
+[2023.06.15-15.11.34:118][911]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.34:194][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.35:067][973]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.35:142][978]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.35:233][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.36:067][ 39]LogBlueprintUserMessages: [NewGame_C_0] Server: 19
+[2023.06.15-15.11.36:323][ 56]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.36:323][ 56]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.37:072][106]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.37:147][111]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.37:267][119]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.38:076][172]LogBlueprintUserMessages: [NewGame_C_0] Server: 20
+[2023.06.15-15.11.38:411][194]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.38:411][194]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.39:092][238]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.39:184][244]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.39:245][248]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.40:103][303]LogBlueprintUserMessages: [NewGame_C_0] Server: 21
+[2023.06.15-15.11.41:483][422]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.41:484][422]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.42:136][469]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.42:228][476]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.42:309][482]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.43:148][545]LogBlueprintUserMessages: [NewGame_C_0] Server: 22
+[2023.06.15-15.11.43:175][547]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.43:249][552]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.43:333][558]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.44:619][659]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.45:414][729]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.45:414][729]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.46:130][784]LogBlueprintUserMessages: [NewGame_C_0] Server: 23
+[2023.06.15-15.11.46:157][786]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.46:235][792]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.46:354][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.47:154][862]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.47:492][888]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.47:492][888]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.48:136][937]LogBlueprintUserMessages: [NewGame_C_0] Server: 24
+[2023.06.15-15.11.48:177][940]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.53:285][420]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 0.01, Realtime: 5.08. IpNetDriver_161
+[2023.06.15-15.11.53:341][424]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.53:396][428]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.54:215][486]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.55:220][512]LogBlueprintUserMessages: [NewGame_C_0] Server: 25
+[2023.06.15-15.11.55:220][512]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.55:220][512]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.55:881][514]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.55:881][514]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.55:881][514]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.56:241][536]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.56:289][539]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.56:370][544]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.56:448][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.57:224][598]LogBlueprintUserMessages: [NewGame_C_0] Server: 26
+[2023.06.15-15.11.57:256][600]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.57:542][618]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.57:542][618]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.58:248][663]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.58:294][666]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.58:374][671]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.58:485][678]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.11.59:233][724]LogBlueprintUserMessages: [NewGame_C_0] Server: 27
+[2023.06.15-15.11.59:296][728]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.00:573][808]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.00:573][808]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.00:904][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.00:920][830]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.00:920][830]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.00:920][830]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.01:238][850]LogBlueprintUserMessages: [NewGame_C_0] Server: 28
+[2023.06.15-15.12.01:303][854]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.01:952][895]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.02:621][937]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.02:621][937]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.02:958][958]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.02:958][958]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.02:958][958]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.03:242][976]LogBlueprintUserMessages: [NewGame_C_0] Server: 29
+[2023.06.15-15.12.03:320][981]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.03:368][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.03:445][989]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.03:523][994]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.04:274][ 42]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.04:337][ 46]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.04:620][ 64]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.04:620][ 64]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.05:260][104]LogBlueprintUserMessages: [NewGame_C_0] Server: 30
+[2023.06.15-15.12.05:324][108]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.05:372][111]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.05:454][116]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.05:564][123]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.06:279][168]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.06:376][174]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.07:271][230]LogBlueprintUserMessages: [NewGame_C_0] Server: 31
+[2023.06.15-15.12.07:664][255]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.07:664][255]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.07:979][275]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.07:995][276]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.07:995][276]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.07:995][276]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.08:282][294]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.08:377][300]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.12.08:503][306]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2023.06.15-15.12.08:503][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.12.08:503][306]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.12.08:504][306]LogSlate: Window 'Childhood_Strat Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2023.06.15-15.12.08:509][306]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-15.12.08:514][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.12.08:520][306]LogNet: World NetDriver shutdown IpNetDriver_161 [GameNetDriver]
+[2023.06.15-15.12.08:520][306]LogNet: DestroyNamedNetDriver IpNetDriver_161 [GameNetDriver]
+[2023.06.15-15.12.08:520][306]LogExit: GameNetDriver IpNetDriver_161 shut down
+[2023.06.15-15.12.08:520][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.15-15.12.08:531][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.12.08:602][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.12.08:603][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.12.08:627][306]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2023.06.15-15.12.08:656][307]LogPlayLevel: Display: Destroying online subsystem :Context_236
+[2023.06.15-15.12.13:649][701]Cmd: POLY SELECT MEMORY UNION
+[2023.06.15-15.12.15:176][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2023.06.15-15.12.33:690][245]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2023.06.15-15.13.12:076][304]BlueprintLog: New page: Compile NewGame
+[2023.06.15-15.13.12:189][304]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2023.06.15-15.13.12:665][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/NewGame" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Game/NewGame.uasset" SILENT=true
+[2023.06.15-15.13.12:685][336]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/NewGame03C8611D4D3D742699D99FA31ADC4E27.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Game/NewGame.uasset'
+[2023.06.15-15.13.12:699][336]AssetCheck: New page: Asset Save: NewGame
+[2023.06.15-15.13.12:699][336]LogContentValidation: Display: Validating Blueprint /Game/Game/NewGame.NewGame
+[2023.06.15-15.13.31:806][ 22]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.15-15.13.31:817][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.15-15.13.31:817][ 22]PIE: New page: PIE session: Minimal_Default (15.06.2023, 19:13:31)
+[2023.06.15-15.13.31:817][ 22]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.13.31:948][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129757s)
+[2023.06.15-15.13.31:949][ 22]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.06.15-15.13.31:949][ 22]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2023.06.15-15.13.31:949][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.131116s)
+[2023.06.15-15.13.32:014][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2023.06.15-15.13.32:015][ 22]LogAudio: Display: Creating Audio Device:                 Id: 164, Scope: Unique, Realtime: True
+[2023.06.15-15.13.32:015][ 22]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.15-15.13.32:015][ 22]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.15-15.13.32:015][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.15-15.13.32:015][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.15-15.13.32:015][ 22]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.15-15.13.32:015][ 22]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.15-15.13.32:015][ 22]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.15-15.13.32:015][ 22]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.15-15.13.32:015][ 22]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.15-15.13.32:015][ 22]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.15-15.13.32:020][ 22]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-15.13.32:020][ 22]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-15.13.32:028][ 22]LogAudioMixer: Display: Using Audio Device Lautsprecher (High Definition Audio Device)
+[2023.06.15-15.13.32:029][ 22]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.15-15.13.32:029][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.15-15.13.32:029][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.15-15.13.32:029][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.15-15.13.32:029][ 22]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.15-15.13.32:029][ 22]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.15-15.13.32:039][ 22]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.15-15.13.32:039][ 22]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.15-15.13.32:039][ 22]LogInit: FAudioDevice initialized.
+[2023.06.15-15.13.32:039][ 22]LogAudio: Display: Audio Device (ID: 164) registered with world 'Minimal_Default'.
+[2023.06.15-15.13.32:081][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.13.32:081][ 22]LogLoad: Game class is 'NewGame_C'
+[2023.06.15-15.13.32:095][ 22]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.06.15-17.13.32
+[2023.06.15-15.13.32:095][ 22]LogWorld: Bringing up level for play took: 0.013877
+[2023.06.15-15.13.32:095][ 22]LogOnline: OSS: Creating online subsystem instance for: :Context_237
+[2023.06.15-15.13.32:098][ 22]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.06.15-15.13.32:098][ 22]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.06.15-15.13.32:098][ 22]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.06.15-15.13.32:098][ 22]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2023.06.15-15.13.32:098][ 22]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.06.15-15.13.32:098][ 22]LogNet: GameNetDriver IpNetDriver_162 IpNetDriver listening on port 17777
+[2023.06.15-15.13.32:108][ 22]PIE: Server logged in
+[2023.06.15-15.13.32:112][ 22]PIE: Play in editor total start time 0,3 seconds.
+[2023.06.15-15.13.32:209][ 23]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.079801 > MaxSimulationTimeStep (0.050) for 'Unit_base_C_1', movement 'Falling'
+[2023.06.15-15.13.32:790][ 59]LogBlueprintUserMessages: [basicHouse_C_0] Server: Structure Destroyed
+[2023.06.15-15.13.33:279][ 90]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.13.33:279][ 90]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.13.33:280][ 90]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.13.36:809][316]LogBlueprintUserMessages: [NewGame_C_0] Server: 1
+[2023.06.15-15.13.41:819][648]LogBlueprintUserMessages: [NewGame_C_0] Server: 2
+[2023.06.15-15.13.43:857][784]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.13.46:829][978]LogBlueprintUserMessages: [NewGame_C_0] Server: 3
+[2023.06.15-15.13.48:873][112]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.13.51:836][301]LogBlueprintUserMessages: [NewGame_C_0] Server: 4
+[2023.06.15-15.13.56:845][613]LogBlueprintUserMessages: [NewGame_C_0] Server: 5
+[2023.06.15-15.14.01:838][929]LogCharacterMovement: Unit_base_C_4 is stuck and failed to move! Velocity: X=-37.43 Y=-25.47 Z=0.00 Location: X=13.75 Y=712.71 Z=156.74 Normal: X=-0.17 Y=-0.98 Z=0.06 PenetrationDepth:0.039 Actor:Sphere2_11 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.06.15-15.14.01:856][930]LogBlueprintUserMessages: [NewGame_C_0] Server: 6
+[2023.06.15-15.14.06:323][206]LogBlueprintUserMessages: [basicHouse_C_2] Server: Structure Destroyed
+[2023.06.15-15.14.06:871][239]LogBlueprintUserMessages: [NewGame_C_0] Server: 7
+[2023.06.15-15.14.07:136][255]LogCharacterMovement: Unit_base_C_5 is stuck and failed to move! Velocity: X=-14.37 Y=-30.09 Z=0.00 Location: X=-21.55 Y=691.27 Z=157.15 Normal: X=0.07 Y=-1.00 Z=0.07 PenetrationDepth:0.001 Actor:Sphere2_11 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.06.15-15.14.11:313][515]LogCharacterMovement: Unit_base_C_4 is stuck and failed to move! Velocity: X=26.86 Y=-28.95 Z=0.00 Location: X=-123.49 Y=576.28 Z=156.47 Normal: X=-0.15 Y=0.88 Z=-0.46 PenetrationDepth:0.751 Actor:Brick_C_18 Component:Cube BoneName:None (2 other events since notify)
+[2023.06.15-15.14.11:882][550]LogBlueprintUserMessages: [NewGame_C_0] Server: 8
+[2023.06.15-15.14.11:992][557]LogCharacterMovement: Unit_base_C_6 is stuck and failed to move! Velocity: X=1.28 Y=-11.59 Z=0.00 Location: X=22.88 Y=682.78 Z=179.73 Normal: X=-0.83 Y=0.30 Z=0.47 PenetrationDepth:0.711 Actor:Brick_C_19 Component:Cube BoneName:None (0 other events since notify)
+[2023.06.15-15.14.13:994][678]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2023.06.15-15.14.13:994][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.14.13:994][678]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.14.13:995][678]LogSlate: Window 'Childhood_Strat Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2023.06.15-15.14.13:999][678]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-15.14.14:003][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.14.14:011][678]LogNet: World NetDriver shutdown IpNetDriver_162 [GameNetDriver]
+[2023.06.15-15.14.14:011][678]LogNet: DestroyNamedNetDriver IpNetDriver_162 [GameNetDriver]
+[2023.06.15-15.14.14:011][678]LogExit: GameNetDriver IpNetDriver_162 shut down
+[2023.06.15-15.14.14:011][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.15-15.14.14:032][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.14.14:102][678]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.15-15.14.14:102][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.14.14:103][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.14.14:125][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2023.06.15-15.14.14:155][679]LogPlayLevel: Display: Destroying online subsystem :Context_237
+[2023.06.15-15.17.36:919][256]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.06.15-15.17.47:279][123]BlueprintLog: New page: Compile NewGame
+[2023.06.15-15.17.47:391][123]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2023.06.15-15.17.47:829][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/NewGame" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Game/NewGame.uasset" SILENT=true
+[2023.06.15-15.17.47:849][151]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/NewGame7C9849B84366DEB664DFB3ABE0BD232D.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Game/NewGame.uasset'
+[2023.06.15-15.17.47:862][151]AssetCheck: New page: Asset Save: NewGame
+[2023.06.15-15.17.47:862][151]LogContentValidation: Display: Validating Blueprint /Game/Game/NewGame.NewGame
+[2023.06.15-15.17.54:486][679]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.15-15.17.54:497][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.15-15.17.54:497][679]PIE: New page: PIE session: Minimal_Default (15.06.2023, 19:17:54)
+[2023.06.15-15.17.54:497][679]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.17.54:629][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131519s)
+[2023.06.15-15.17.54:630][679]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.06.15-15.17.54:630][679]LogPlayLevel: PIE: World Init took: (0.001369s)
+[2023.06.15-15.17.54:630][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.133017s)
+[2023.06.15-15.17.54:699][679]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2023.06.15-15.17.54:699][679]LogAudio: Display: Creating Audio Device:                 Id: 165, Scope: Unique, Realtime: True
+[2023.06.15-15.17.54:700][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.15-15.17.54:700][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.15-15.17.54:700][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.15-15.17.54:700][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.15-15.17.54:700][679]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.15-15.17.54:700][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.15-15.17.54:700][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.15-15.17.54:700][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.15-15.17.54:700][679]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.15-15.17.54:700][679]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.15-15.17.54:704][679]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-15.17.54:704][679]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-15.17.54:713][679]LogAudioMixer: Display: Using Audio Device Lautsprecher (High Definition Audio Device)
+[2023.06.15-15.17.54:713][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.15-15.17.54:713][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.15-15.17.54:714][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.15-15.17.54:714][679]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.15-15.17.54:714][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.15-15.17.54:714][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.15-15.17.54:725][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.15-15.17.54:725][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.15-15.17.54:725][679]LogInit: FAudioDevice initialized.
+[2023.06.15-15.17.54:725][679]LogAudio: Display: Audio Device (ID: 165) registered with world 'Minimal_Default'.
+[2023.06.15-15.17.54:777][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.17.54:777][679]LogLoad: Game class is 'NewGame_C'
+[2023.06.15-15.17.54:794][679]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.06.15-17.17.54
+[2023.06.15-15.17.54:794][679]LogWorld: Bringing up level for play took: 0.016898
+[2023.06.15-15.17.54:794][679]LogOnline: OSS: Creating online subsystem instance for: :Context_238
+[2023.06.15-15.17.54:797][679]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.06.15-15.17.54:797][679]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.06.15-15.17.54:797][679]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.06.15-15.17.54:798][679]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2023.06.15-15.17.54:798][679]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.06.15-15.17.54:798][679]LogNet: GameNetDriver IpNetDriver_163 IpNetDriver listening on port 17777
+[2023.06.15-15.17.54:807][679]PIE: Server logged in
+[2023.06.15-15.17.54:811][679]PIE: Play in editor total start time 0,32 seconds.
+[2023.06.15-15.17.54:928][680]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085714 > MaxSimulationTimeStep (0.050) for 'Unit_base_C_1', movement 'Falling'
+[2023.06.15-15.17.55:504][715]LogBlueprintUserMessages: [basicHouse_C_0] Server: Structure Destroyed
+[2023.06.15-15.17.56:011][747]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.17.56:011][747]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.17.56:011][747]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.17.59:518][980]LogBlueprintUserMessages: [NewGame_C_0] Server: 1
+[2023.06.15-15.18.04:523][314]LogBlueprintUserMessages: [NewGame_C_0] Server: 2
+[2023.06.15-15.18.05:954][406]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2023.06.15-15.18.05:954][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.18.05:954][406]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.18.05:955][406]LogSlate: Window 'Childhood_Strat Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2023.06.15-15.18.05:959][406]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-15.18.05:963][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.18.05:969][406]LogNet: World NetDriver shutdown IpNetDriver_163 [GameNetDriver]
+[2023.06.15-15.18.05:969][406]LogNet: DestroyNamedNetDriver IpNetDriver_163 [GameNetDriver]
+[2023.06.15-15.18.05:969][406]LogExit: GameNetDriver IpNetDriver_163 shut down
+[2023.06.15-15.18.05:969][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.15-15.18.05:989][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.18.06:056][406]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.15-15.18.06:059][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.18.06:060][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.18.06:096][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2023.06.15-15.18.06:125][407]LogPlayLevel: Display: Destroying online subsystem :Context_238
+[2023.06.15-15.18.30:852][477]BlueprintLog: New page: Compile NewGame
+[2023.06.15-15.18.30:962][477]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2023.06.15-15.18.31:329][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/NewGame" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Game/NewGame.uasset" SILENT=true
+[2023.06.15-15.18.31:350][498]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/NewGame201D0486443308B8C0677D9219B5C752.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Game/NewGame.uasset'
+[2023.06.15-15.18.31:366][498]AssetCheck: New page: Asset Save: NewGame
+[2023.06.15-15.18.31:367][498]LogContentValidation: Display: Validating Blueprint /Game/Game/NewGame.NewGame
+[2023.06.15-15.18.32:446][572]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.15-15.18.32:457][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.15-15.18.32:457][572]PIE: New page: PIE session: Minimal_Default (15.06.2023, 19:18:32)
+[2023.06.15-15.18.32:457][572]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.18.32:587][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130239s)
+[2023.06.15-15.18.32:588][572]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.06.15-15.18.32:588][572]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2023.06.15-15.18.32:588][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.131570s)
+[2023.06.15-15.18.32:654][572]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2023.06.15-15.18.32:655][572]LogAudio: Display: Creating Audio Device:                 Id: 166, Scope: Unique, Realtime: True
+[2023.06.15-15.18.32:655][572]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.15-15.18.32:655][572]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.15-15.18.32:655][572]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.15-15.18.32:655][572]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.15-15.18.32:655][572]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.15-15.18.32:655][572]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.15-15.18.32:655][572]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.15-15.18.32:655][572]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.15-15.18.32:656][572]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.15-15.18.32:656][572]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.15-15.18.32:660][572]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-15.18.32:660][572]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-15.18.32:668][572]LogAudioMixer: Display: Using Audio Device Lautsprecher (High Definition Audio Device)
+[2023.06.15-15.18.32:668][572]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.15-15.18.32:669][572]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.15-15.18.32:669][572]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.15-15.18.32:669][572]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.15-15.18.32:669][572]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.15-15.18.32:669][572]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.15-15.18.32:679][572]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.15-15.18.32:679][572]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.15-15.18.32:679][572]LogInit: FAudioDevice initialized.
+[2023.06.15-15.18.32:680][572]LogAudio: Display: Audio Device (ID: 166) registered with world 'Minimal_Default'.
+[2023.06.15-15.18.32:726][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.18.32:726][572]LogLoad: Game class is 'NewGame_C'
+[2023.06.15-15.18.32:740][572]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.06.15-17.18.32
+[2023.06.15-15.18.32:741][572]LogWorld: Bringing up level for play took: 0.013756
+[2023.06.15-15.18.32:741][572]LogOnline: OSS: Creating online subsystem instance for: :Context_239
+[2023.06.15-15.18.32:743][572]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.06.15-15.18.32:743][572]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.06.15-15.18.32:744][572]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.06.15-15.18.32:744][572]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2023.06.15-15.18.32:744][572]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.06.15-15.18.32:744][572]LogNet: GameNetDriver IpNetDriver_164 IpNetDriver listening on port 17777
+[2023.06.15-15.18.32:753][572]PIE: Server logged in
+[2023.06.15-15.18.32:758][572]PIE: Play in editor total start time 0,307 seconds.
+[2023.06.15-15.18.32:876][573]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085714 > MaxSimulationTimeStep (0.050) for 'Unit_base_C_1', movement 'Falling'
+[2023.06.15-15.18.33:462][608]LogBlueprintUserMessages: [basicHouse_C_0] Server: Structure Destroyed
+[2023.06.15-15.18.33:980][641]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.18.33:980][641]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.18.33:980][641]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.18.37:469][870]LogBlueprintUserMessages: [NewGame_C_0] Server: 1
+[2023.06.15-15.18.42:472][202]LogBlueprintUserMessages: [NewGame_C_0] Server: 2
+[2023.06.15-15.18.44:518][333]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.18.47:475][522]LogBlueprintUserMessages: [NewGame_C_0] Server: 3
+[2023.06.15-15.18.53:274][ 14]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.18.59:064][511]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.18.59:957][579]LogBlueprintUserMessages: [NewGame_C_0] Server: 4
+[2023.06.15-15.19.01:987][728]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Units/AiServices/FindStruc.FindStruc_C:ExecuteUbergraph_FindStruc'!
+[2023.06.15-15.19.02:064][731]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2023.06.15-15.19.02:065][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.19.02:065][731]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.19.02:066][731]LogSlate: Window 'Childhood_Strat Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2023.06.15-15.19.02:068][731]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-15.19.02:072][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.19.02:080][731]LogNet: World NetDriver shutdown IpNetDriver_164 [GameNetDriver]
+[2023.06.15-15.19.02:080][731]LogNet: DestroyNamedNetDriver IpNetDriver_164 [GameNetDriver]
+[2023.06.15-15.19.02:080][731]LogExit: GameNetDriver IpNetDriver_164 shut down
+[2023.06.15-15.19.02:080][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.15-15.19.02:100][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.19.02:168][731]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.15-15.19.02:169][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.19.02:169][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.19.02:191][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2023.06.15-15.19.02:221][732]LogPlayLevel: Display: Destroying online subsystem :Context_239
+[2023.06.15-15.19.14:380][631]BlueprintLog: New page: Compile NewGame
+[2023.06.15-15.19.14:490][631]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2023.06.15-15.19.14:879][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/NewGame" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Game/NewGame.uasset" SILENT=true
+[2023.06.15-15.19.14:899][655]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/NewGame9552F5974E1E50D307A67CA0B52204EE.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Game/NewGame.uasset'
+[2023.06.15-15.19.14:912][655]AssetCheck: New page: Asset Save: NewGame
+[2023.06.15-15.19.14:912][655]LogContentValidation: Display: Validating Blueprint /Game/Game/NewGame.NewGame
+[2023.06.15-15.19.20:086][ 54]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.15-15.19.20:097][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.15-15.19.20:097][ 54]PIE: New page: PIE session: Minimal_Default (15.06.2023, 19:19:20)
+[2023.06.15-15.19.20:097][ 54]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.19.20:227][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130338s)
+[2023.06.15-15.19.20:228][ 54]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.06.15-15.19.20:228][ 54]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2023.06.15-15.19.20:228][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.131585s)
+[2023.06.15-15.19.20:295][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2023.06.15-15.19.20:296][ 54]LogAudio: Display: Creating Audio Device:                 Id: 167, Scope: Unique, Realtime: True
+[2023.06.15-15.19.20:296][ 54]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.15-15.19.20:296][ 54]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.15-15.19.20:296][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.15-15.19.20:296][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.15-15.19.20:296][ 54]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.15-15.19.20:296][ 54]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.15-15.19.20:296][ 54]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.15-15.19.20:296][ 54]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.15-15.19.20:296][ 54]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.15-15.19.20:296][ 54]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.15-15.19.20:300][ 54]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-15.19.20:301][ 54]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-15.19.20:309][ 54]LogAudioMixer: Display: Using Audio Device Lautsprecher (High Definition Audio Device)
+[2023.06.15-15.19.20:310][ 54]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.15-15.19.20:310][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.15-15.19.20:310][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.15-15.19.20:310][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.15-15.19.20:310][ 54]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.15-15.19.20:310][ 54]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.15-15.19.20:320][ 54]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.15-15.19.20:320][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.15-15.19.20:320][ 54]LogInit: FAudioDevice initialized.
+[2023.06.15-15.19.20:320][ 54]LogAudio: Display: Audio Device (ID: 167) registered with world 'Minimal_Default'.
+[2023.06.15-15.19.20:376][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.19.20:376][ 54]LogLoad: Game class is 'NewGame_C'
+[2023.06.15-15.19.20:391][ 54]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.06.15-17.19.20
+[2023.06.15-15.19.20:391][ 54]LogWorld: Bringing up level for play took: 0.014176
+[2023.06.15-15.19.20:392][ 54]LogOnline: OSS: Creating online subsystem instance for: :Context_240
+[2023.06.15-15.19.20:394][ 54]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.06.15-15.19.20:394][ 54]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.06.15-15.19.20:394][ 54]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.06.15-15.19.20:394][ 54]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2023.06.15-15.19.20:394][ 54]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.06.15-15.19.20:394][ 54]LogNet: GameNetDriver IpNetDriver_165 IpNetDriver listening on port 17777
+[2023.06.15-15.19.20:404][ 54]PIE: Server logged in
+[2023.06.15-15.19.20:408][ 54]PIE: Play in editor total start time 0,317 seconds.
+[2023.06.15-15.19.20:507][ 55]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085714 > MaxSimulationTimeStep (0.050) for 'Unit_base_C_1', movement 'Falling'
+[2023.06.15-15.19.21:101][ 91]LogBlueprintUserMessages: [basicHouse_C_0] Server: Structure Destroyed
+[2023.06.15-15.19.21:565][121]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.19.21:565][121]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.19.21:566][121]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.19.40:133][342]LogBlueprintUserMessages: [NewGame_C_0] Server: 1
+[2023.06.15-15.19.52:935][177]LogBlueprintUserMessages: [basicWall_C_0] Server: Structure Destroyed
+[2023.06.15-15.19.58:434][534]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2023.06.15-15.19.58:434][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.19.58:434][534]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.19.58:435][534]LogSlate: Window 'Childhood_Strat Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2023.06.15-15.19.58:439][534]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-15.19.58:443][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.19.58:448][534]LogNet: World NetDriver shutdown IpNetDriver_165 [GameNetDriver]
+[2023.06.15-15.19.58:448][534]LogNet: DestroyNamedNetDriver IpNetDriver_165 [GameNetDriver]
+[2023.06.15-15.19.58:448][534]LogExit: GameNetDriver IpNetDriver_165 shut down
+[2023.06.15-15.19.58:448][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.15-15.19.58:468][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.19.58:536][534]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.15-15.19.58:536][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.19.58:537][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.19.58:559][534]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.06.15-15.19.58:595][535]LogPlayLevel: Display: Destroying online subsystem :Context_240
+[2023.06.15-15.20.22:676][533]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.06.15-15.20.33:530][517]BlueprintLog: New page: Compile FindStruc
+[2023.06.15-15.20.33:632][517]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2023.06.15-15.20.34:043][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Units/AiServices/FindStruc" FILE="D:/Users/Jonah/Documents/Ue4Game/Content/Units/AiServices/FindStruc.uasset" SILENT=true
+[2023.06.15-15.20.34:054][545]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/FindStruc6E214DDA4D5DBAB1C2D9D88F33DCEE1B.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/Units/AiServices/FindStruc.uasset'
+[2023.06.15-15.20.34:067][545]AssetCheck: New page: Asset Save: FindStruc
+[2023.06.15-15.20.34:067][545]LogContentValidation: Display: Validating Blueprint /Game/Units/AiServices/FindStruc.FindStruc
+[2023.06.15-15.20.35:565][655]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.15-15.20.35:576][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.15-15.20.35:576][655]PIE: New page: PIE session: Minimal_Default (15.06.2023, 19:20:35)
+[2023.06.15-15.20.35:576][655]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.20.35:707][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130583s)
+[2023.06.15-15.20.35:708][655]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.06.15-15.20.35:708][655]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2023.06.15-15.20.35:708][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.132113s)
+[2023.06.15-15.20.35:773][655]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2023.06.15-15.20.35:773][655]LogAudio: Display: Creating Audio Device:                 Id: 168, Scope: Unique, Realtime: True
+[2023.06.15-15.20.35:773][655]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.15-15.20.35:773][655]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.15-15.20.35:773][655]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.15-15.20.35:773][655]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.15-15.20.35:773][655]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.15-15.20.35:773][655]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.15-15.20.35:773][655]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.15-15.20.35:773][655]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.15-15.20.35:774][655]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.15-15.20.35:774][655]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.15-15.20.35:778][655]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-15.20.35:778][655]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-15.20.35:787][655]LogAudioMixer: Display: Using Audio Device Lautsprecher (High Definition Audio Device)
+[2023.06.15-15.20.35:787][655]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.15-15.20.35:787][655]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.15-15.20.35:787][655]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.15-15.20.35:787][655]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.15-15.20.35:787][655]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.15-15.20.35:787][655]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.15-15.20.35:798][655]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.15-15.20.35:798][655]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.15-15.20.35:798][655]LogInit: FAudioDevice initialized.
+[2023.06.15-15.20.35:798][655]LogAudio: Display: Audio Device (ID: 168) registered with world 'Minimal_Default'.
+[2023.06.15-15.20.35:841][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.20.35:842][655]LogLoad: Game class is 'NewGame_C'
+[2023.06.15-15.20.35:857][655]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.06.15-17.20.35
+[2023.06.15-15.20.35:858][655]LogWorld: Bringing up level for play took: 0.014723
+[2023.06.15-15.20.35:858][655]LogOnline: OSS: Creating online subsystem instance for: :Context_241
+[2023.06.15-15.20.35:861][655]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.06.15-15.20.35:861][655]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.06.15-15.20.35:861][655]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.06.15-15.20.35:861][655]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2023.06.15-15.20.35:861][655]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.06.15-15.20.35:861][655]LogNet: GameNetDriver IpNetDriver_166 IpNetDriver listening on port 17777
+[2023.06.15-15.20.35:870][655]PIE: Server logged in
+[2023.06.15-15.20.35:874][655]PIE: Play in editor total start time 0,303 seconds.
+[2023.06.15-15.20.35:990][656]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085714 > MaxSimulationTimeStep (0.050) for 'Unit_base_C_1', movement 'Falling'
+[2023.06.15-15.20.36:606][696]LogBlueprintUserMessages: [basicHouse_C_0] Server: Structure Destroyed
+[2023.06.15-15.20.36:606][696]LogBlueprintUserMessages: [basicHouse_C_0] Server: Structure Destroyed
+[2023.06.15-15.20.37:060][726]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.20.37:060][726]LogBlueprintUserMessages: [basicHouse_C_1] Server: Structure Destroyed
+[2023.06.15-15.20.55:601][996]LogBlueprintUserMessages: [NewGame_C_0] Server: 1
+[2023.06.15-15.21.10:616][ 20]LogBlueprintUserMessages: [NewGame_C_0] Server: 2
+[2023.06.15-15.21.22:705][849]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2023.06.15-15.21.22:705][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-15.21.22:705][849]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.06.15-15.21.22:705][849]LogSlate: Window 'Childhood_Strat Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2023.06.15-15.21.22:709][849]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-15.21.22:713][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.21.22:721][849]LogNet: World NetDriver shutdown IpNetDriver_166 [GameNetDriver]
+[2023.06.15-15.21.22:721][849]LogNet: DestroyNamedNetDriver IpNetDriver_166 [GameNetDriver]
+[2023.06.15-15.21.22:721][849]LogExit: GameNetDriver IpNetDriver_166 shut down
+[2023.06.15-15.21.22:721][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.15-15.21.22:742][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-15.21.22:810][849]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.15-15.21.22:810][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.21.22:811][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-15.21.22:833][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2023.06.15-15.21.22:867][850]LogPlayLevel: Display: Destroying online subsystem :Context_241
+[2023.06.15-15.21.34:503][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2023.06.15-15.21.35:499][952]LogSlate: Window 'Save Content' being destroyed
+[2023.06.15-15.21.35:587][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.06.15-15.21.36:267][952]LogSavePackage: Moving 'D:/Users/Jonah/Documents/Ue4Game/Saved/Minimal_Default1181350F46AC6E029B5B709556A8DCCD.tmp' to 'D:/Users/Jonah/Documents/Ue4Game/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.06.15-15.21.36:280][952]LogFileHelpers: Saving map 'Minimal_Default' took 0.755
+[2023.06.15-15.21.36:316][952]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.06.15-15.21.36:316][952]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
